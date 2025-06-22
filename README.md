@@ -1,1 +1,1 @@
-# Java-script
+# Java-script all practice codes 
